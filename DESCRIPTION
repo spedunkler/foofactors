@@ -1,13 +1,13 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: A Better Factor Bind
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jerry",
+           family = "Davis",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "jerry@sfsu.edu",
+           comment = c(ORCID = "0000-0002-5369-1197"))
+Description: Does a better factor bind (from the the R packages book)
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
